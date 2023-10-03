@@ -2,11 +2,10 @@
 main:
 
   - title: "CV"
-  url: /files/Resume_githubio.pdf
+    url: /files/Resume_githubio.pdf
 
   - title: "Research"
     url: /research/
-    
     
   - title: "Projects"
     url: /projects/
