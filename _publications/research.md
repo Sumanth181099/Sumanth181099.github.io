@@ -10,19 +10,19 @@
 # citation: 'Aniruddh Sikdar, Sumanth Udupa, Prajwal Gurunath, Suresh Sundaram; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023, pp. 487-496.'
 ---
 
-<table>
-<tr>
-<th><img src="/images/deepmao_githubio.gif" width="256" height="256"/></th>
-<th>DeepMAO: Deep Multi-Scale Aware Overcomplete Network for Building Segmentation in Satellite Imagery <a href="https://openaccess.thecvf.com/content/CVPR2023W/PBVS/html/Sikdar_DeepMAO_Deep_Multi-Scale_Aware_Overcomplete_Network_for_Building_Segmentation_in_CVPRW_2023_paper.html">
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<th style="border: none;"><img src="/images/deepmao_githubio.gif" width="384" height="384"/></th>
+<th style="border: none;">DeepMAO: Deep Multi-Scale Aware Overcomplete Network for Building Segmentation in Satellite Imagery <a href="https://openaccess.thecvf.com/content/CVPR2023W/PBVS/html/Sikdar_DeepMAO_Deep_Multi-Scale_Aware_Overcomplete_Network_for_Building_Segmentation_in_CVPRW_2023_paper.html"></a>
 Aniruddh Sikdar*, Sumanth V Udupa*, Prajwal Gurunath*, Suresh Sundaram
 *equal contribution
 </th>
 </tr>
 </table>
 
- <img src="/images/deepmao_githubio.gif" width="128" height="128"/> **[DeepMAO: Deep Multi-Scale Aware Overcomplete Network for Building Segmentation in Satellite Imagery](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/html/Sikdar_DeepMAO_Deep_Multi-Scale_Aware_Overcomplete_Network_for_Building_Segmentation_in_CVPRW_2023_paper.html)**
+ <!-- <img src="/images/deepmao_githubio.gif" width="128" height="128"/> **[DeepMAO: Deep Multi-Scale Aware Overcomplete Network for Building Segmentation in Satellite Imagery](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/html/Sikdar_DeepMAO_Deep_Multi-Scale_Aware_Overcomplete_Network_for_Building_Segmentation_in_CVPRW_2023_paper.html)**
 *Perception Beyond Visible Spectrum, CVPR 2023*
 Aniruddh Sikdar*, Sumanth V Udupa*, Prajwal Gurunath*, Suresh Sundaram
 *equal contribution
 
-[paper](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/papers/Sikdar_DeepMAO_Deep_Multi-Scale_Aware_Overcomplete_Network_for_Building_Segmentation_in_CVPRW_2023_paper.pdf) | [code](https://github.com/Sumanth181099/DeepMAO)| [ppt](https://docs.google.com/presentation/d/1m0ksGUATUTi8x-keNbh-1l1y2QLAkkMM/edit?usp=sharing&ouid=104963490925330429223&rtpof=true&sd=true)
+[paper](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/papers/Sikdar_DeepMAO_Deep_Multi-Scale_Aware_Overcomplete_Network_for_Building_Segmentation_in_CVPRW_2023_paper.pdf) | [code](https://github.com/Sumanth181099/DeepMAO)| [ppt](https://docs.google.com/presentation/d/1m0ksGUATUTi8x-keNbh-1l1y2QLAkkMM/edit?usp=sharing&ouid=104963490925330429223&rtpof=true&sd=true) -->
