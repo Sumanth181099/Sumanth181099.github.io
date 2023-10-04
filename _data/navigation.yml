@@ -5,7 +5,7 @@ main:
     url: /files/Resume_githubio.pdf
 
   - title: "Research"
-    url: /publications/research.md
+    url: /publications/
     
   - title: "Projects"
     url: /projects/
