@@ -1,7 +1,7 @@
 ---
 title: "DeepMAO: Deep Multi-Scale Aware Overcomplete Network for Building Segmentation in Satellite Imagery"
 collection: publications
-permalink: /research/research
+permalink: /publications/research
 excerpt: 'Building segmentation in large-scale aerial images is challenging, especially for small buildings in dense and cluttered urban environments. Complex building structures with highly varied geometric footprints pose an additional challenge for the building segmentation task in satellite imagery. In this work, we propose to tackle the issue of detecting and segmenting small and complex-shaped buildings in Electro-Optical (EO) and SAR satellite imagery. A novel architecture Deep Multi-scale Aware Overcomplete Network (DeepMAO), is proposed that comprises an overcomplete branch that focuses on fine structural features and an undercomplete (U-Net) branch tasked to focus on coarse, semantic-rich features. Additionally, a novel self-regulating augmentation strategy, Loss-Mix, is proposed to increase pixel representation of misclassified pixels. DeepMAO is simple and efficient in accurately identifying small and geometrically complex buildings. Experimental results on SpaceNet 6 dataset, on both EO and SAR modalities, and the INRIA dataset show that DeepMAO achieves state-ofthe-art building segmentation performance, including small and complex-shaped buildings with a negligible increase in the parameter count. In addition, the presence of the overcomplete branch in DeepMAO helps in handling the speckle noise present in the SAR image modality.'
 date: 2023-06-18
 venue: 'PBVS, CVPR 2023'
