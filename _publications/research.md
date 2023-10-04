@@ -12,7 +12,7 @@
 
 <table style="border-collapse: collapse; border: none; font-size:16px">
 <tr style="border: none;">
-<th style="border: none;"><img src="/images/deepmao_githubio.gif" width="50%" height="50%"/></th>
+<th style="border: none;"><img src="/images/deepmao_githubio.gif" width="100%" height="100%"/></th>
 <th style="border: none; "><a href="https://openaccess.thecvf.com/content/CVPR2023W/PBVS/html/Sikdar_DeepMAO_Deep_Multi-Scale_Aware_Overcomplete_Network_for_Building_Segmentation_in_CVPRW_2023_paper.html">DeepMAO: Deep Multi-Scale Aware Overcomplete Network for Building Segmentation in Satellite Imagery</a>
 Aniruddh Sikdar*, Sumanth V Udupa*, Prajwal Gurunath*, Suresh Sundaram<br>
 *equal contribution
