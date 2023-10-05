@@ -14,6 +14,6 @@ collection: portfolio
 </tr>
 </table>
 
-The main idea behind the project was to give an objective or an application for the concept of swarm robotics. The objective was to build a multi-robot system consisting of 2 or 3 robots which can move around and localize themselves in an unknown environment and perform certain tasks.The main task which we provided was to pick-and-place goods/packages in an environment which would be emulated as a warehouse environment. OpenCV was employed for the detection of objects using Zed camera.<br>
+The main idea behind the project was to give an objective or an application for the concept of swarm robotics. The objective was to build a multi-robot system consisting of 2 or 3 robots which can move around and localize themselves in an unknown environment and perform certain tasks.The main task which we provided was to pick-and-place goods/packages in an environment which would be emulated as a warehouse environment. OpenCV was employed for the detection of objects using Zed camera as the sensor.<br>
 
 
