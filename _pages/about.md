@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I'm currently a research assistant at the Artificial Intelligence and Robotics Lab(AIRL) within the Department of Aerospace Engineering at the Indian Institute of Science(IISc) working as  under the guidance of [Prof. Suresh Sundaram](https://scholar.google.com/citations?hl=en&user=5iAMbhMAAAAJ&view_op=list_works&sortby=pubdate). I completed my Bachelors in Electrical and Electronics Engineering in 2021 from PES University, Bangalore, India.<br>
-
 Currently, my work at AIRL is centred towards the semantic segmentation in autonomous driving with the emphasis on domain adaptation, generalization and continual learning. My work extends to the domain of aerial and satellite imagery, encompassing both electro-optical, synthetic aperture radar and thermal image data where the focus is on cross-domain adaptation and also improving the segmentation performance on tiny objects.<br>
 Previously, I worked on efficient and structure-aware machine learning models to boost the visual perception abilities of autonomous agents. 
 
