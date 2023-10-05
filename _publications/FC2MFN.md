@@ -13,7 +13,7 @@
 <table style="border-collapse: collapse; border: none; font-size:16px">
 <tr style="border: none;">
 <th style="border: none;"><img src="/images/FC2MFN.gif" width="75%" height="75%"/></th>
-<th style="border: none; ">Fully Complex-valued Fully Convolutional Multi-feature Fusion Network(FC2MFN) for Building Segmentation of InSAR images<FONT COLOR="#ff0000">(Oral Presentation)</FONT></a><br>
+<th style="border: none; ">Fully Complex-valued Fully Convolutional Multi-feature Fusion Network(FC2MFN) for Building Segmentation of InSAR images<FONT COLOR="#ff0000">(Oral Presentation)</FONT><br>
 <FONT COLOR="#808080">Aniruddh Sikdar*, Sumanth V Udupa*, Suresh Sundaram, Narasimhan Sundararajan<FONT COLOR="#808080"><br>
 <FONT COLOR="#808080">*equal contribution<FONT COLOR="#808080"><br>
 <a href="https://arxiv.org/pdf/2212.07084.pdf">paper</a>  <a href="https://docs.google.com/presentation/d/1YL2UnWHnB7iSNhJsbpOtb8Yc71zBNFfV/edit?usp=sharing&ouid=104963490925330429223&rtpof=true&sd=true">slides</a><br>
