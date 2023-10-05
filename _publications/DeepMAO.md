@@ -12,7 +12,7 @@
 
 <table style="border-collapse: collapse; border: none; font-size:16px">
 <tr style="border: none;">
-<th style="border: none;"><img src="/images/deepmao_githubio.gif" width="75%" height="75%"/></th>
+<th style="border: none;"><img src="/images/deepmao_githubio.gif" width="90%" height="90%"/></th>
 <th style="border: none; ">DeepMAO: Deep Multi-Scale Aware Overcomplete Network for Building Segmentation in Satellite Imagery<br>
 <FONT COLOR="#808080">Aniruddh Sikdar*, Sumanth V Udupa*, Prajwal Gurunath*, Suresh Sundaram</FONT><br>
 <FONT COLOR="#808080">*equal contribution</FONT><br>
