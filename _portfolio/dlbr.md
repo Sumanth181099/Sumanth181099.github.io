@@ -7,7 +7,7 @@ collection: portfolio
 <table style="border-collapse: collapse; border: none; font-size:16px">
 <tr style="border: none;">
 <th style="border: none;"><img src="/images/Screenshot from 2023-10-05 20-09-06.png" width="100%" height="100%"/></th>
-<th style="border: none; ">In this work, we have tackled the perception and control of an autonomous robot working in an indoor environment.<br>
+<th style="border: none; ">Tackled the perception and control of an autonomous robot working in an indoor environment.<br>
 <a href="https://drive.google.com/file/d/1hynRl29z6ciSxhXPUYXFY83fgWyJzXKo/view">Report</a>    <a href="https://github.com/Sumanth181099/Deep-Learning-Based-Localization-of-a-Robot-">code</a><br>
 
 </th>
