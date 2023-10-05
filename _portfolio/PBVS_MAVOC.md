@@ -1,7 +1,7 @@
 ---
 title: "Multi-Modal Domain Fusion for Multi-Modal Aerial View Object Classification"
-excerpt: "Our solution to the CVPR Perception Beyond Visible Spectrum Workshop 2022: Multi-Modal Aerial View Object Classification challenge. We proposed a novel Multi-Modal Domain Fusion(MDF) network to learn the domain invariant features from multi-modal data and use it to accurately classify the aerial view objects<br/><img src='/images/Screenshot from 2023-10-05 19-16-19.png'><br>
-<a href="https://arxiv.org/pdf/2212.07039.pdf">paper</a>    <a href="https://github.com/Sumanth181099/PBVS_MAVOC2022">code</a>"
+excerpt: "Our solution to the CVPR Perception Beyond Visible Spectrum Workshop 2022: Multi-Modal Aerial View Object Classification challenge. We proposed a novel Multi-Modal Domain Fusion(MDF) network to learn the domain invariant features from multi-modal data and use it to accurately classify the aerial view objects<br/><img src='/images/Screenshot from 2023-10-05 19-16-19.png'>"
+
 collection: portfolio
 ---
 
