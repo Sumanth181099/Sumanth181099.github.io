@@ -14,10 +14,10 @@
 <tr style="border: none;">
 <th style="border: none;"><img src="/images/deepmao_githubio.gif" width="75%" height="75%"/></th>
 <th style="border: none; ">DeepMAO: Deep Multi-Scale Aware Overcomplete Network for Building Segmentation in Satellite Imagery<br>
-<FONT COLOR="#808080">Aniruddh Sikdar*, Sumanth V Udupa*, Prajwal Gurunath*, Suresh Sundaram<FONT COLOR="#808080"><br>
-<FONT COLOR="#808080">*equal contribution<FONT COLOR="#808080"><br>
+<FONT COLOR="#808080">Aniruddh Sikdar*, Sumanth V Udupa*, Prajwal Gurunath*, Suresh Sundaram</FONT><br>
+<FONT COLOR="#808080">*equal contribution</FONT><br>
 
-<a href="https://openaccess.thecvf.com/content/CVPR2023W/PBVS/html/Sikdar_DeepMAO_Deep_Multi-Scale_Aware_Overcomplete_Network_for_Building_Segmentation_in_CVPRW_2023_paper.html">paper</a>    <a href="https://github.com/Sumanth181099/DeepMAO">code</a>    <a href="https://docs.google.com/presentation/d/1m0ksGUATUTi8x-keNbh-1l1y2QLAkkMM/edit?usp=sharing&ouid=104963490925330429223&rtpof=true&sd=true">slides</a>    <a href="https://www.youtube.com/watch?v=RmBijy6VvEI">video</a><br>  
+<a href="https://openaccess.thecvf.com/content/CVPR2023W/PBVS/html/Sikdar_DeepMAO_Deep_Multi-Scale_Aware_Overcomplete_Network_for_Building_Segmentation_in_CVPRW_2023_paper.html">paper</a>   <a href="https://github.com/Sumanth181099/DeepMAO">code</a>   <a href="https://docs.google.com/presentation/d/1m0ksGUATUTi8x-keNbh-1l1y2QLAkkMM/edit?usp=sharing&ouid=104963490925330429223&rtpof=true&sd=true">slides</a>   <a href="https://www.youtube.com/watch?v=RmBijy6VvEI">video</a><br>  
 
 </th>
 </tr>
