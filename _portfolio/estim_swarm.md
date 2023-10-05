@@ -6,7 +6,7 @@ collection: portfolio
 ---
 <table style="border-collapse: collapse; border: none; font-size:16px">
 <tr style="border: none;">
-<th style="border: none;"><img src="/images/Screenshot from 2023-10-05 21-20-45.png" width="100%" height="100%"/></th>
+<th style="border: none;"><img src="/images/estm_githubio.JPG" width="100%" height="100%"/></th>
 <th style="border: none; ">Implemented obstacle avoidance along with a simple formation using a simple control law to depict swarm behavior of robots using ROS Melodic and Gazebo(3D Open Source Simulator).<br>
 <a href="https://drive.google.com/file/d/1Qo8XWCYKIww_1_bVjqqFHxToP-hxz_0Z/view?usp=sharing">Report</a>    <a href="https://github.com/Sumanth181099/Swarm-Robotics/tree/main">code</a>    <a href="https://drive.google.com/file/d/1hWWhgFlu15gcDPKaM-dPRAPZdPlm5u9g/view">video</a><br>
 
