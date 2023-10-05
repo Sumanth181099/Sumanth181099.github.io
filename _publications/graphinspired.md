@@ -12,7 +12,7 @@
 
 <table style="border-collapse: collapse; border: none; font-size:16px">
 <tr style="border: none;">
-<th style="border: none;"><img src="/images/graphinpired_githubio.gif" width="50%" height="50%"/></th>
+<th style="border: none;"><img src="/images/graphinspired_githubio.gif" width="50%" height="50%"/></th>
 <th style="border: none; "><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782664">Graph Inspired Geometric Area Allocation for Swarm of Robots in a Warehouse Environment</a><br>
 Sumanth V Udupa, Ayush Das, Ajay Victor<br>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782664">paper</a><br>
