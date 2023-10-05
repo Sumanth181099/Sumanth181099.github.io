@@ -15,7 +15,6 @@
 <th style="border: none;"><img src="/images/graphinspired_githubio.gif" width="120%" height="120%"/></th>
 <th style="border: none; ">Graph Inspired Geometric Area Allocation for Swarm of Robots in a Warehouse Environment<br>
 <FONT COLOR="#808080">Sumanth V Udupa, Ayush Das, Ajay Victor</FONT><br>
-
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782664">paper</a><br>
 
 </th>
