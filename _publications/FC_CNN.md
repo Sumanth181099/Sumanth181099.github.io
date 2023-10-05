@@ -12,7 +12,7 @@
 
 <table style="border-collapse: collapse; border: none; font-size:16px">
 <tr style="border: none;">
-<th style="border: none;"><img src="/images/ICASSP_githubio.JPG" width="100%" height="100%"/></th>
+<th style="border: none;"><img src="/images/ICASSP_githubio.JPG" width="75%" height="75%"/></th>
 <th style="border: none; ">Fully complex-valued deep learning model for visual perception<FONT COLOR="#ff0000">(Oral Presentation)</FONT><br>
 <FONT COLOR="#808080">Aniruddh Sikdar*, Sumanth V Udupa*, Suresh Sundaram</FONT><br>
 <FONT COLOR="#808080">*equal contribution</FONT><br>
