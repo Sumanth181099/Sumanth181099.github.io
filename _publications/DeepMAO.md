@@ -9,6 +9,7 @@
 # paperurl: 'https://openaccess.thecvf.com/content/CVPR2023W/PBVS/papers Sikdar_DeepMAO_Deep_Multi-Scale_Aware_Overcomplete_Network_for_Building_Segmentation_in_CVPRW_2023_paper.pdf'
 # citation: 'Aniruddh Sikdar, Sumanth Udupa, Prajwal Gurunath, Suresh Sundaram; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023, pp. 487-496.'
 ---
+
 <table style="border-collapse: collapse; border: none; font-size:16px">
 <tr style="border: none;">
 <th style="border: none;"><img src="/images/deepmao_githubio.gif" width="75%" height="75%"/></th>
