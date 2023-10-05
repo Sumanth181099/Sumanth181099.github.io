@@ -6,7 +6,7 @@ collection: portfolio
 ---
 <table style="border-collapse: collapse; border: none; font-size:16px">
 <tr style="border: none;">
-<th style="border: none;"><img src="/images/Screenshot from 2023-10-05 19-16-19.png" width="100%" height="100%"/></th>
+<th style="border: none;"><img src="/images/Screenshot from 2023-10-05 19-16-19.png" width="120%" height="120%"/></th>
 <th style="border: none; ">Our solution to the CVPR Perception Beyond Visible Spectrum Workshop 2022: Multi-Modal Aerial View Object Classification challenge. We proposed a novel Multi-Modal Domain Fusion(MDF) network to learn the domain invariant features from multi-modal data and use it to accurately classify the aerial view objects.<br>
 <FONT COLOR="#808080">Sumanth V Udupa, Aniruddh Sikdar, Suresh Sundaram</FONT><br>
 <a href="https://arxiv.org/pdf/2212.07039.pdf">paper</a>    <a href="https://github.com/Sumanth181099/PBVS_MAVOC2022">code</a><br>
