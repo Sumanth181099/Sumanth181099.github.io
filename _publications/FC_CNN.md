@@ -13,7 +13,7 @@
 <table style="border-collapse: collapse; border: none; font-size:16px">
 <tr style="border: none;">
 <th style="border: none;"><img src="/images/ICASSP_githubio.JPG" width="75%" height="75%"/></th>
-<th style="border: none; "><a href="https://ieeexplore.ieee.org/document/10095290">Fully complex-valued deep learning model for visual perception</a><br>
+<th style="border: none; ">Fully complex-valued deep learning model for visual perception<FONT COLOR="#ff0000">(Oral Presentation)</FONT><br>
 Aniruddh Sikdar*, Sumanth V Udupa*, Suresh Sundaram<br>
 *equal contribution<br>
 <a href="https://ieeexplore.ieee.org/document/10095290">paper</a>   <a href="https://docs.google.com/presentation/d/1aGDeDUuWMhGdBmnHKD2GoxRmmquby0-5/edit?usp=sharing&ouid=104963490925330429223&rtpof=true&sd=true">slides</a>   <a href="https://www.youtube.com/watch?v=Cm76LLsxIno">video</a><br> 
