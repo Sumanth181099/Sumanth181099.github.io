@@ -4,7 +4,7 @@ title: "Multi-Modal Domain Fusion for Multi-Modal Aerial View Object Classificat
 
 collection: portfolio
 ---
-<table style="border-collapse: collapse; border: none; font-size:16px">
+<table style="border-collapse: collapse; border: none; font-size:14px">
 <tr style="border: none;">
 <th style="border: none;"><img src="/images/PBVS_MDF.gif" width="1000%" height="1000%"/></th>
 <th style="border: none; ">Our solution to the CVPR Perception Beyond Visible Spectrum Workshop 2022: <a href="http://vcipl-okstate.org/pbvs/22/challenge.html">Multi-Modal Aerial View Object Classification challenge</a>. We proposed a novel <i>Multi-Modal Domain Fusion(MDF) network  and a training scheme</i> to learn the domain invariant features from long-tailed multi-modal data distribution by reducing the domain discrepancy using Wasserstein distance and use it to accurately classify the aerially viewed objects. To make the learning more efficient, class-conditional domain adaptation was achieved by passing the multi-modal data in pairs at a time to the two models in MDF, effectively making it a shared feature learner. <br>
