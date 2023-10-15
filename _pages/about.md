@@ -14,7 +14,7 @@ I'm currently a **Research Assistant** at the **Artificial Intelligence and Robo
 <ul>
 <li>Currently, my work at AIRL is focused on semantic segmentation for safety-critical applications such as autonomous driving, with an emphasis on domain adaptation, generalization, and continual learning.</li>
 <li>My work extends to the domain of aerial and satellite imagery, encompassing both electro-optical, synthetic aperture radar, and thermal image data where the focus is on cross-domain adaptation and also improving the segmentation performance on tiny objects.</li>
-<li>Previously, I worked on efficient and structure-aware machine learning models to boost the visual perception abilities of autonomous agents.</li><br>
+<li>Previously, I worked on efficient and structure-aware machine learning models to boost the visual perception abilities of autonomous agents.</li>
 
 <h2>Research Interests</h2>
 I'm keen on developing models that are trustworthy to be deployed in safety. My areas of interest include:
