@@ -17,7 +17,7 @@ I'm currently a **Research Assistant** at the **Artificial Intelligence and Robo
 <li>Previously, I worked on efficient and structure-aware machine learning models to boost the visual perception abilities of autonomous agents.</li>
 
 <h2>Research Interests</h2>
-I'm keen on developing models that are trustworthy to be deployed in safety. My areas of interest include:
+I'm keen on developing models that are trustworthy to be deployed in safety. My areas of interest include:<br>
 <ul>
 <li>domain generalization, domain adaptation, out-of-distribution robustness, continual learning.</li> 
 <li>Structure-aware machine learning and data-efficient learning like few-shot/zero-shot and self-supervised learning.</li>
