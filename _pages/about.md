@@ -19,8 +19,9 @@ I'm currently a **Research Assistant** at the **Artificial Intelligence and Robo
 <h2>Research Interests</h2>
 I'm keen on developing models that are trustworthy to be deployed in safety. My areas of interest include:
 <ul>
-<li>domain generalization, domain adaptation, out-of-distribution robustness, continual learning, structure-aware machine learning and also low labeled data learning regimes like few-shot learning and self-supervised learning.</li> 
+<li>domain generalization, domain adaptation, out-of-distribution robustness, continual learning.</li> 
+<li>Structure-aware machine learning and data-efficient learning like few-shot/zero-shot and self-supervised learning.</li>
 <li>I am also interested in improving models' understanding of world knowledge using <i>multi-modal learning</i>.</li>
 </ul><br>
-Overall, I aim to develop models that are trustworthy to be deployed in safety-critical applications such as autonomous driving, robot autonomy and biomedical image analysis.
+<i>Overall, I aim to develop models that are trustworthy to be deployed in safety-critical applications such as autonomous driving, robot autonomy and biomedical image analysis.</i>
 
