@@ -16,7 +16,8 @@ I'm currently a **Research Assistant** at the **Artificial Intelligence and Robo
 <li>My work extends to the domain of aerial and satellite imagery, encompassing both electro-optical, synthetic aperture radar, and thermal image data where the focus is on cross-domain adaptation and also improving the segmentation performance on tiny objects.</li>
 <li>Previously, I worked on efficient and structure-aware machine learning models to boost the visual perception abilities of autonomous agents.</li><br>
 
-**Research Interests**: I'm keen on developing models that are trustworthy to be deployed in safety. My areas of interest include:
+<h2>Research Interests</h2>
+I'm keen on developing models that are trustworthy to be deployed in safety. My areas of interest include:
 <ul>
 <li>domain generalization, domain adaptation, out-of-distribution robustness, continual learning, structure-aware machine learning and also low labeled data learning regimes like few-shot learning and self-supervised learning.</li> 
 <li>I am also interested in improving models' understanding of world knowledge using <i>multi-modal learning</i>.</li>
