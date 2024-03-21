@@ -6,6 +6,7 @@ main:
 
   - title: "Research"
     url: /publications/
+    url: /accepted/
     
   - title: "Projects"
     url: /portfolio/
