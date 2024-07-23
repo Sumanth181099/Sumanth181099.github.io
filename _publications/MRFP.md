@@ -18,6 +18,7 @@
 <FONT COLOR="#808080">*equal contribution</FONT><br>
 <a href="https://arxiv.org/pdf/2311.18331.pdf">paper</a> 
 <a href="https://github.com/airl-iisc/MRFP">code</a>
+<a href="https://www.youtube.com/watch?v=63sYr5LoHvo">video</a>
 
 </th>
 </tr>
